@@ -23,4 +23,21 @@ Requisitos
 Python 3.x
 
 Bibliotecas necesarias:
+
 pip install requests beautifulsoup4 ttkbootstrap
+
+Instrucciones de Uso
+Clona el repositorio:
+git clone https://github.com/tu-usuario/tu-repositorio.git
+cd tu-repositorio
+
+Ejecuta la herramienta:
+python Dork_sql_injection.py
+Ingresa un dork (por ejemplo, site:.com index.php?id=) y la cantidad de sitios que deseas verificar.
+
+Haz clic en Iniciar búsqueda para comenzar la detección.
+
+Los resultados se mostrarán en una tabla. Puedes copiar la URL o el estado de un resultado haciendo clic derecho.
+
+Exporta los resultados a un archivo CSV haciendo clic en Exportar resultados.
+
