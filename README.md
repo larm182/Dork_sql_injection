@@ -26,7 +26,7 @@ Python 3.x
 
 - Bibliotecas necesarias:
 
-pip install requests beautifulsoup4 ttkbootstrap
+- pip install requests beautifulsoup4 ttkbootstrap
 
 - Instrucciones de Uso
 Clona el repositorio:
