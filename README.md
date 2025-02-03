@@ -53,3 +53,9 @@ Estructura del Proyecto
 - Contribuciones
 ¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la herramienta o encuentras algún problema, no dudes en abrir un issue o enviar un pull request.
 
+![sql_dork 2](https://github.com/user-attachments/assets/181155c1-50ee-4c74-b195-c064b37559a2)
+![sql_dork 3](https://github.com/user-attachments/assets/82bf32b9-a647-4886-ae2d-7fd563787041)
+
+
+
+
