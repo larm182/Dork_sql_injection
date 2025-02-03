@@ -28,7 +28,7 @@ pip install requests beautifulsoup4 ttkbootstrap
 
 Instrucciones de Uso
 Clona el repositorio:
-git clone https://github.com/tu-usuario/tu-repositorio.git
+git clone https://github.com/larm182/Dork_sql_injectio.git
 cd tu-repositorio
 
 Ejecuta la herramienta:
@@ -40,4 +40,14 @@ Haz clic en Iniciar búsqueda para comenzar la detección.
 Los resultados se mostrarán en una tabla. Puedes copiar la URL o el estado de un resultado haciendo clic derecho.
 
 Exporta los resultados a un archivo CSV haciendo clic en Exportar resultados.
+
+Estructura del Proyecto
+
+Dork_sql_injection/
+├── Dork_sql_injectio.py  # Código principal de la herramienta
+├── README.md                # Este archivo
+
+
+Contribuciones
+¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar la herramienta o encuentras algún problema, no dudes en abrir un issue o enviar un pull request.
 
